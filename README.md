@@ -4,8 +4,9 @@ Only works for windows
 Requires .NET 6 to be installed
 
 1. To Download, Click on the latest release on the right side of this screen.
-2. Extract the contents of the archive to a new folder somewhere on your PC
-3. Run the OpenAI.exe file
+2. Download the OpenAI.zip file
+3. Extract the contents of the archive to a new folder somewhere on your PC
+4. Run the OpenAI.exe file
 
 If you came here from my YouTube channel: Hi! Missed me?
 If you didn't come here from my YouTube channel: CHECK OUT MY YOUTUBE CHANNEL! https://www.youtube.com/@Taranasus (please! I'm desperate)
