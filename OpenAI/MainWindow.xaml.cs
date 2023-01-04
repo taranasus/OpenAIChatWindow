@@ -194,7 +194,10 @@ namespace OpenAI
             if (visible == OpenAI.Visibility.Chat)
                 visible = OpenAI.Visibility.Hidden;
             else
+            {
                 visible = OpenAI.Visibility.Chat;
+                webView.Reload();
+            }
             ProcessVisibility();
         } 
 
@@ -225,7 +228,10 @@ namespace OpenAI
             if (visible == OpenAI.Visibility.Menu)
                 visible = OpenAI.Visibility.Chat;
             else
+            {
                 visible = OpenAI.Visibility.Menu;
+                webView.Reload();
+            }
             ProcessVisibility();
         }      
 
